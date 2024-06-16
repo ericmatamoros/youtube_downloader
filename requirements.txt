@@ -1,0 +1,10 @@
+# Package dependencies
+pandas
+numpy
+pyyaml
+jupyter
+scikit-learn
+streamlit
+Flask
+pytube
+streamlit
